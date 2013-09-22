@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"last_ch",
+				"last_change"
+			],
+			[
+				"Curre",
+				"CurrentWebuser"
+			],
+			[
+				"Upda",
+				"UpdatedWebuser"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"ex",
+				"expect"
+			],
+			[
+				"Chec",
+				"Checksum1"
+			],
+			[
+				"Check",
+				"Checksum3"
+			],
+			[
+				"Che",
+				"Checksum2"
+			],
+			[
+				"com",
+				"compute_checksum"
+			],
+			[
+				"dire",
+				"directive"
+			],
+			[
+				"authe",
+				"authenticated"
+			],
+			[
+				"Web",
+				"WebuserId"
+			],
+			[
+				"boss",
+				"boss_db"
+			],
+			[
+				"not",
+				"not_authenticated"
+			],
+			[
+				"und",
+				"undefined"
+			],
+			[
+				"Passw",
+				"Password"
+			],
+			[
+				"Password",
+				"PasswordAttempt"
+			],
+			[
+				"webus",
+				"webuser_id"
+			],
+			[
+				"the",
+				"the_truth"
+			],
+			[
+				"Url",
+				"UrlName"
+			],
+			[
+				"Last",
+				"LastCheck"
+			],
+			[
+				"sub",
+				"submissions"
+			],
+			[
+				"s",
+				"submission"
+			],
+			[
+				"prefe",
+				"prefetchAllResponse"
+			],
+			[
+				"compi",
+				"compilationFinished"
+			],
+			[
+				"memor",
+				"memory_limit"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"time",
+				"time_limit"
+			],
+			[
+				"tim",
+				"time_limit"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"get",
+				"getopt_str"
+			],
+			[
+				"bro",
+				"broadcastReceived"
+			],
+			[
+				"assess",
+				"assessment"
+			],
+			[
+				"Code",
+				"CodeMirror"
+			],
+			[
+				"ranking",
+				"rankingUpdateOptions"
+			],
+			[
+				"scro",
+				"scrollspy"
+			],
+			[
+				"he",
+				"header	Tag"
+			],
+			[
+				"gene",
+				"generatedBoard"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"meth",
+				"method_name"
+			],
+			[
+				"Triang",
+				"TriangleError"
+			],
+			[
+				"Sta",
+				"StandardError"
+			],
+			[
+				"Runtime",
+				"RuntimeError"
+			],
+			[
+				"els",
+				"elsif	elsif ..."
+			],
+			[
+				"sca",
+				"scalene"
+			],
+			[
+				"equ",
+				"equilateral"
+			],
+			[
+				"fals",
+				"false_stuff"
+			],
+			[
+				"fal",
+				"false_stuff"
+			],
+			[
+				"tru",
+				"true_value"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala",
+			"settings":
+			{
+				"buffer_size": 1307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/test/scala/org/functionalkoans/forscala/AboutIterables.scala",
+			"settings":
+			{
+				"buffer_size": 3705,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala",
+			"settings":
+			{
+				"buffer_size": 20781,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/krzemin/Projects/scala-koans/src/main/scala/org/functionalkoans/forscala/SomeJavaClass.java",
+		"/home/krzemin/Projects/pizza/netio.erl",
+		"/home/krzemin/Projects/pizza/ui.erl",
+		"/home/krzemin/Projects/pizza/labirynt.erl",
+		"/home/krzemin/Projects/webnotify-spike/entities/website.rb",
+		"/home/krzemin/Projects/webnotify-spike/interactors/add_website_interactor.rb",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/site-list.html",
+		"/home/krzemin/Projects/webnotify/src/model/site.erl",
+		"/home/krzemin/Projects/webnotify/src/model/webuser.erl",
+		"/home/krzemin/Projects/webnotify/src/test/eunit/urlchecker_tests.erl",
+		"/home/krzemin/Projects/webnotify/src/test/eunit/site_tests.erl",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/settings.html",
+		"/home/krzemin/Projects/webnotify/priv/init/webnotify_02_bgsitechecker.erl",
+		"/home/krzemin/Projects/webnotify/src/lib/urlchecker.erl",
+		"/home/krzemin/Projects/webnotify/boss.config",
+		"/home/krzemin/Projects/webnotify/rebar.config",
+		"/home/krzemin/Projects/webnotify/src/view/lib/tag_modules/webnotify_custom_tags.erl",
+		"/home/krzemin/Projects/webnotify/src/view/sites/spa.html",
+		"/home/krzemin/Projects/webnotify/priv/static/app/js/app.js",
+		"/home/krzemin/Projects/webnotify/priv/static/app/js/controllers.js",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/register.html",
+		"/home/krzemin/Projects/webnotify/priv/static/apple-touch-icon-144x144-precomposed.png",
+		"/home/krzemin/Projects/webnotify/src/test/eunit/webuser_tests.erl",
+		"/home/krzemin/Projects/webnotify/src/model/db.sql",
+		"/home/krzemin/Projects/webnotify/priv/static/app/js/services.js",
+		"/home/krzemin/Projects/webnotify/priv/static/css/main.css",
+		"/home/krzemin/Projects/webnotify/src/controller/webnotify_sites_controller.erl",
+		"/home/krzemin/Projects/webnotify/priv/webnotify.routes",
+		"/home/krzemin/Projects/webnotify/src/controller/webnotify_api_controller.erl",
+		"/home/krzemin/Projects/webnotify/priv/static/app/js/directives.js",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/about.html",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/.gitignore",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/phone-list.html",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/phone-detail.html",
+		"/home/krzemin/Projects/webnotify/priv/static/app/partials/start.html",
+		"/home/krzemin/Projects/webnotify/priv/init/webnotify_01_qdate.erl",
+		"/home/krzemin/Projects/webnotify/boss.test.config",
+		"/home/krzemin/Projects/webnotify/priv/rebar/boss_plugin.erl",
+		"/home/krzemin/Projects/webnotify/test.config",
+		"/home/krzemin/Projects/webnotify/rebar.cmd",
+		"/home/krzemin/Projects/webnotify/src/tests/eunit/site_tests.erl",
+		"/home/krzemin/Projects/webnotify/src/webnotify.app.src",
+		"/home/krzemin/Projects/webnotify/src/lib/plists.erl",
+		"/home/krzemin/Projects/webnotify/src/mail/webnotify_outgoing_mail_controller.erl",
+		"/home/krzemin/Projects/webnotify/src/mail/webnotify_incoming_mail_controller.erl",
+		"/home/krzemin/Projects/webnotify/priv/static/app/js/filters.js",
+		"/home/krzemin/Projects/webnotify/priv/init/webnotify_01_bgsitechecker.erl",
+		"/home/krzemin/Projects/webnotify/src/lib/http.erl",
+		"/home/krzemin/Projects/webnotify/src/view/base.html",
+		"/home/krzemin/Projects/webnotify/.gitignore",
+		"/home/krzemin/Projects/webnotify/src/view/sites/about.html",
+		"/home/krzemin/Projects/webnotify/src/view/sites/index.html",
+		"/home/krzemin/Projects/webnotify/src/view/sites/edit.html",
+		"/home/krzemin/Projects/webcontest/sandbox/test/unit/executable_test.cpp",
+		"/home/krzemin/Projects/webcontest/www-prototype/Makefile",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/local_storage.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/websocket.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/api_client.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/glue.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/use_case.coffee",
+		"/home/krzemin/Projects/webcontest/node-backend/app.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/gui.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/index.html",
+		"/home/krzemin/Projects/webcontest/node-backend/stub_data.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/release/templates.js",
+		"/home/krzemin/Projects/webcontest/rails-backend/app/controllers/spa_controller.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/app/controllers/application_controller.rb",
+		"/home/krzemin/Projects/webcontest/webcontest-spike/webcontest.rb",
+		"/home/krzemin/Projects/webcontest/webcontest-spike/webcontest_test.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/config/application.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/Gemfile",
+		"/home/krzemin/Projects/webcontest/rails-backend/config/routes.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/config/initializers/inflections.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/config/initializers/wrap_parameters.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/config/initializers/secret_token.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/config/locales/en.yml",
+		"/home/krzemin/Projects/webcontest/rails-backend/db/seeds.rb",
+		"/home/krzemin/Projects/webcontest/rails-backend/doc/README_FOR_APP",
+		"/home/krzemin/Projects/webcontest/rails-backend/Rakefile",
+		"/home/krzemin/Projects/webcontest/rails-backend/README.rdoc",
+		"/home/krzemin/Projects/webcontest/rails-backend/Gemfile.lock",
+		"/home/krzemin/Projects/webcontest/rails-backend/public/index.html",
+		"/home/krzemin/Projects/webcontest/www-prototype/templates/submissions.tmpl",
+		"/home/krzemin/Projects/webcontest/rails-backend/app/views/layouts/application.html.erb",
+		"/home/krzemin/Projects/webcontest/node-backend/app.js",
+		"/home/krzemin/Projects/webcontest/node-backend/package.json",
+		"/home/krzemin/Projects/webcontest/node-backend/stub_data.js",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/utils.coffee",
+		"/home/krzemin/Projects/webcontest/www-prototype/src/app.coffee",
+		"/home/krzemin/Projects/webcontest/sandbox/test/printer_test.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/include/printer.hpp",
+		"/home/krzemin/Projects/webcontest/sandbox/CMakeLists.txt",
+		"/home/krzemin/Projects/webcontest/sandbox/test/unit/mocks/security_manager_mock.hpp",
+		"/home/krzemin/Projects/webcontest/sandbox/include/options.hpp",
+		"/home/krzemin/Projects/webcontest/sandbox/src/executable.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/include/security_manager.hpp",
+		"/home/krzemin/Projects/webcontest/sandbox/include/executable.hpp",
+		"/home/krzemin/Projects/webcontest/sandbox/src/main2.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/src/main.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/src/abstractconfig.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/include/abstractconfig.h",
+		"/home/krzemin/Projects/webcontest/sandbox/src/printer.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/test/unit/options_test.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/src/options.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/test/unit/printer_test.cpp",
+		"/home/krzemin/z_zuzi/Projects/ProgrammingContest/Limiter/output.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/test/options_test.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/src/output.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/include/syscalls32.h",
+		"/home/krzemin/Projects/webcontest/sandbox/include/output.h",
+		"/home/krzemin/Projects/webcontest/sandbox/include/nativeconfig.h",
+		"/home/krzemin/.config/sublime-text-2/Packages/User/Distraction Free.sublime-settings",
+		"/home/krzemin/.config/sublime-text-2/Packages/User/C++.sublime-settings",
+		"/home/krzemin/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/krzemin/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/krzemin/Projects/webcontest/sandbox/src/nativeconfig.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/src/javaconfig.cpp",
+		"/home/krzemin/Projects/webcontest/sandbox/include/syscalls64.h",
+		"/home/krzemin/Projects/webcontest/www-prototype/templates/ranking.tmpl",
+		"/home/krzemin/Projects/webcontest/node-backend/server.js",
+		"/home/krzemin/Projects/webcontest/www-prototype/css/custom.css",
+		"/home/krzemin/Projects/webcontest/www-prototype/templates/main.tmpl",
+		"/home/krzemin/kaka.js",
+		"/home/krzemin/Projects/webcontest/www-prototype/templates/code.tmpl",
+		"/home/krzemin/Projects/webcontest/www-prototype/templates/alert.tmpl",
+		"/home/krzemin/Projects/webcontest/www-prototype/templates/problem.tmpl",
+		"/home/krzemin/Projects/webcontest/www-client/templates/ranking.tmpl",
+		"/home/krzemin/Projects/webcontest/www-client/src/local_storage.coffee"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"netio",
+			"ui",
+			"stop(",
+			"\\t",
+			"ban",
+			"http:",
+			"alert-error",
+			"already",
+			"webuser_id",
+			"signed_in",
+			"session",
+			"view",
+			"webnotify",
+			"');\n",
+			"session",
+			"[\"\"]},",
+			"test",
+			"Account",
+			"UpdateTimeStamp",
+			"static",
+			"formatDate",
+			"id",
+			"formatDate",
+			"id",
+			"err",
+			"generateFi",
+			"sut.",
+			"fileName",
+			"inputFile",
+			"optionPointer",
+			"isValid",
+			"inputFile",
+			"space",
+			"_generateRanking",
+			"codemirror_opts",
+			"sortTable",
+			"rankingTableUpdate",
+			"makeClickable",
+			"sortTable",
+			"perfror",
+			"    \n",
+			"problem.",
+			"toggle",
+			">\n",
+			"category",
+			"categories",
+			"product",
+			"rand",
+			"arguments",
+			"false",
+			"\"],"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			"webuserId",
+			"signedIn",
+			"Site",
+			"UpdateTimestamp",
+			"sut->",
+			"codeMirrorOpts",
+			"",
+			"product",
+			"products",
+			"item",
+			"item\nitem",
+			"item\n",
+			"order"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/test/scala/org/functionalkoans/forscala/AboutSequencesAndArrays.scala",
+					"settings":
+					{
+						"buffer_size": 1307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/test/scala/org/functionalkoans/forscala/AboutIterables.scala",
+					"settings":
+					{
+						"buffer_size": 3705,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3698,
+								3698
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/test/scala/org/functionalkoans/forscala/AboutTraversables.scala",
+					"settings":
+					{
+						"buffer_size": 20781,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10849,
+								10849
+							]
+						],
+						"settings":
+						{
+							"rulers":
+							[
+								120
+							],
+							"syntax": "Packages/Scala/Scala.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"wrap_width": 0
+						},
+						"translation.x": 0.0,
+						"translation.y": 4005.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 433.0,
+	"status_bar_visible": true
+}
